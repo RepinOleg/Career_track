@@ -18,7 +18,6 @@ In this project, you'll lay the foundation for your career trajectory, identify 
 
 ## Chapter I
 
-![Иллюстрация к проекту](misc/images/Illustration_00.jpeg)
 
 ## Preamble
 
@@ -76,7 +75,6 @@ If you don't understand what you want out of your job, the search can drag on fo
 
 Your job search starts with setting your goal and planning. Before looking for a job, you can do a career wheel with your job selection criteria:
 
-![Колеса карьерных приоритетов](misc/images/CT00.1.png)
 
 **What could those criteria be?**
 - ability to work remotely;
@@ -173,6 +171,4 @@ To accomplish this task, you need to map out your career track for the next 3-5 
 2. In the first column, describe your current career status.
 3. In the third column, write down what career goals you are striving for in 5 years and what is important to you in your job. Your answers should be based on your values and your career balance wheel.
 4. Leave the second column blank for now.
-
-Please leave feedback on the project in the [feedback form.](https://forms.gle/vFexLEpTEgAJVRwY8)
 
